@@ -1,5 +1,4 @@
 # bala1
-# oviya1# oviya
  #include<stdio.h>
  #include<conio.h>
  void main()
@@ -25,7 +24,7 @@
  }
  else
 {
- +printf("thickness of the branch remains same");
- +}
- +getch();
- +}
+ printf("thickness of the branch remains same");
+ }
+ getch();
+ }
